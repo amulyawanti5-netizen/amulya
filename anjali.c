@@ -1,6 +1,6 @@
 #include<stdio.h>
 printf("hello world");
-printf("anjali=everything");
+printf("this is my first git program");
 
 
 
